@@ -10,7 +10,7 @@ function App() {
           <Createpost />
         </div>
         <div className="col-md-6">
-          Display Post
+          Aman sharma
           <PostList/>
         </div>
       </div>
